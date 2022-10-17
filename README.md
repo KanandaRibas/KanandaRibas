@@ -4,7 +4,7 @@ Hi 👋 My name is Kananda Ribas
 *   🌍  I'm based in Florianópolis, Santa Catarina
 *   ✉️  You can contact me at [kanandaribas@gmail.com](mailto:kanandaribas@gmail.com)
 * 🧠  I'm learning React, RTL, Redux and Hooks
-* ⚡  I'm studying web development at trybe
+* ⚡  I'm studying web development at Trybe
 
 ### Skills
 

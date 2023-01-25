@@ -3,7 +3,7 @@ Hi 👋 My name is Kananda Ribas
 
 *   🌍  I'm based in Florianópolis, Santa Catarina
 *   ✉️  You can contact me at [kanandaribas@gmail.com](mailto:kanandaribas@gmail.com)
-* 🧠  I'm learning Docker, SQL, API REST Node.JS, typeScript and MongoDB.
+* 🧠  I'm learning Docker, SQL, API REST, Node.JS, typeScript and MongoDB.
 * ⚡  I'm studying web development at Trybe
 
 ### Skills
